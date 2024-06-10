@@ -15,6 +15,19 @@
  */
 class Solution {
     
+    class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode() {}
+        TreeNode(int val) { this.val = val; }
+        TreeNode(int val, TreeNode left, TreeNode right) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+    }
+    
     public boolean evaluateTree(TreeNode root) {
 
         // base case if root node is a leaf we return true or false based on leaf int value
