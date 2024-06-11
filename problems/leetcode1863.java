@@ -1,4 +1,4 @@
-class Solution {
+class leetcode1863 {
     
     public int subsetXORSum(int[] nums) {
         

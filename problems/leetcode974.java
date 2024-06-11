@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Solution {
+class leetcode974 {
     
   public int subarraysDivByK(int[] nums, int k) {
       

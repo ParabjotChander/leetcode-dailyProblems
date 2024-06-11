@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Solution {
+class leetcode1051 {
     
   public int heightChecker(int[] heights) {
       

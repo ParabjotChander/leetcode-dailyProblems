@@ -1,4 +1,4 @@
-class Solution {
+class leetcode861 {
     
     public int matrixScore(int[][] grid) {
         

@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class leetcode2331 {
     
     class TreeNode {
         int val;
